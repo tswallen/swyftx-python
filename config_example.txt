@@ -1,0 +1,2 @@
+BASE_ROUTE = https://api.swyftx.com.au
+API_KEY = abc123
